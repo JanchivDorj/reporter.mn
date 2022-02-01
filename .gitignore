@@ -1,0 +1,14 @@
+node_modules/
+vendor/
+.idea
+storage/logs
+composer.lock
+.DS_Store
+.env
+.editorconfig
+.gitattributes
+public/slide_show_img/*.jpg
+public/post_img/*.jpg
+public/edit_img/*.jpg
+
+.DS_Store
